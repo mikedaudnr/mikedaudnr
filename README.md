@@ -1,7 +1,7 @@
 # Hi there 👋 It's me, MikeDaud Nr
 
 ## About Me 🚀
-🌱 I am Michael Daud Notoraharjo, a **Junior Web Developer** (specializing in **Front-End Web Development, Laravel Framework, and PHP**) pursuing my education at Telkom Malang Senior High School 
+🌱 I am Michael Daud Notoraharjo, a **Junior Web Developer** (specializing in **Front-End Web Development, Laravel Framework, and PHP**), and also **UI/UX Designer** pursuing my education at Telkom Malang Senior High School 
 
 🔭 I’m currently working on my projects for Telkom Malang Senior High School (E-Commerce, Book Library, and Company Staff App), and also I'm working on **shalom.crtv's website** that all of the projects will be released soon.
 
